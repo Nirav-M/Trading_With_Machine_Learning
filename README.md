@@ -16,7 +16,9 @@ Based on our testing, we found the Sequential Neural Network and Facebook Prophe
 As a group, we split our tasks into sections and used multiple Jupyter Notebooks. As each included multiple libraries and dependencies, following are three snippets presenting these libraries and dependencies.
 
 ![Import Libraries](Images/Libraries1.PNG)
+
 ![Import Libraries](Images/Libraries2.PNG)
+
 ![Import Libraries](Images/Libraries3.PNG)
 
 In general, we imported our data using Yahoo Finance or yfinance. One can install using the following command - "pip install yfinance". Use the following command to install Facebook Prophet - "pip install prophet".
