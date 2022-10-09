@@ -17,9 +17,9 @@ As a group, we split our tasks into sections and used multiple Jupyter Notebooks
 
 ![Import Libraries](Images/Libraries1.PNG)
 
-![Import Libraries](Images/Libraries2.PNG)
+![Import Libraries](Images/Libraries2.png)
 
-![Import Libraries](Images/Libraries3.PNG)
+![Import Libraries](Images/Libraries3.png)
 
 In general, we imported our data using Yahoo Finance or yfinance. One can install using the following command - "pip install yfinance". Use the following command to install Facebook Prophet - "pip install prophet".
 
