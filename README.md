@@ -47,7 +47,7 @@ We imported Tesla data using yfinance, including the standard variables - Open, 
 
 This notebook included our analysis utilizing the Sequential Neural Network.  In addition to the general steps, we added three columns for exponential moving averages and another for the relative strength index (RSI). Once we processed the data, we created a Sequential Neural Network using four hidden layers consisting of 50, 25, 12, and 6 nodes respectively and one output neuron. 
 
-We then utilized our machine learning model to predict the Tesla close price for our entire data set. The following image illustrates the actual tesla price vs the predictions over three years. 
+We then utilized our machine learning model to predict the Tesla close price for our entire data set. The following image illustrates the actual tesla price vs the predictions over nearly three years. 
 
 ![NN - Closing v Predicted](Images/CvP_NN.png)
 
